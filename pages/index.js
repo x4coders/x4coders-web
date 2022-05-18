@@ -17,10 +17,10 @@ export default function Home() {
             HACKATHONS
           </h2>
           <div className="w-full border rounded-lg flex flex-col">
-            <img className="border-b rounded-t-lg w-full mb-5" src="preview.jpg"></img>
+            <Image className="border-b rounded-t-lg w-full mb-5" alt="Preview of Little One's Bookhub hackathon" src="preview.jpg"></Image>
             <div className="ml-4 pb-4">
-              <p className="text-base mb-2"><b>Little One's Bookhub</b></p>
-              <p className="text-base mb-2">by Little One's Bookhub</p>
+              <p className="text-base mb-2"><b>Little One&apos;s Bookhub</b></p>
+              <p className="text-base mb-2">by Little One&apos;s Bookhub</p>
               <p className="text-base mb-2">Status: <b>Active</b></p>
               <p className="text-base mb-2">Tech stack: <b>HTML</b> | <b>CSS</b> | <b>JS</b> | <b>Sheets API</b></p>
               <p className="text-base mb-2">Top contributors: <b>Priya</b> | <b>Olan</b> | <b>Amos</b> | <b>Al-Ameen</b></p>
